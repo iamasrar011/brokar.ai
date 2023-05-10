@@ -14,7 +14,10 @@
     -khtml-opacity: .5;
     opacity: .5
 }
-
+.responsive{
+    display: flex;
+    flex-direction: column;
+}
 .mailerlite-animation {
     -webkit-transition: all .5s ease-out;
     -moz-transition: all .5s ease-out;
